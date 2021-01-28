@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-node-with-express",
-	"author": "Benjamin Riemer",
+	"author": "Jane Doe",
 	"version": "0.1.0",
 	"dependencies": {
 		"express": "^4.14.0",
